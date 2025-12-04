@@ -12,7 +12,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi-p-148810299/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavipatil0445@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi-p-148810299/)
 <a href="https://leetcode.com/u/Vaishnavipatil_0445/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode" /></a>
 <a href="https://www.geeksforgeeks.org/profile/vaishnavipyzco" target="_blank"><img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks" /></a>
 
