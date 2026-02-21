@@ -83,9 +83,6 @@ I continuously strengthen my skills through hands-on projects, structured proble
   <a href="mailto:vaishnavipatil0445@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/VaishnaviPatil0445">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
 </p>
 
 ---
